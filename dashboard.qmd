@@ -30,7 +30,9 @@ head(starwars)
 ## Column {width = "65%"}
 
 ### Row {height = "10%"}
-placeholder text for column 2, row 1
+```{r}
+paste0("My password is: ", Sys.getenv("MY_PASSWORD"))
+```
 
 ### Row {height = "70%"}
 
