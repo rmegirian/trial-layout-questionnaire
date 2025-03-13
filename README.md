@@ -28,7 +28,7 @@ This tool is designed to:
 
 ## How It Works
 
-1.   **Fill Out the Questionnaire**: Researchers complete the interactive questionnaire, providing detailed information about their trial, such as crop species, treatment conditions, trial objectives, experimental design preferences, and other relevant factors.
+1.  **Fill Out the Questionnaire**: Researchers complete the interactive questionnaire, providing detailed information about their trial, such as crop species, treatment conditions, trial objectives, experimental design preferences, and other relevant factors.
 
 2.  **CSV File Download**: Once the questionnaire is completed, researchers can download their responses as a CSV file. This file contains all the input data in a structured format, making it easy to email the file to us.
 
@@ -38,5 +38,4 @@ This tool is designed to:
 
 ## Contributing
 
-If you'd like to contribute to the development of this tool or suggest improvements, feel free to open an issue or submit a pull request.
-# trial-layout-questionnaire
+If you'd like to contribute to the development of this tool or suggest improvements, feel free to open an issue or submit a pull request. \# trial-layout-questionnaire
