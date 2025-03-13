@@ -3,18 +3,18 @@ project:
 
 website:
   title: "Questionnaire for Designing Small Plot Trials"
-  favicon: images/AAGI_logo.png
-  page-navigation: true
   sidebar:
     contents:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: dashboard.qmd
+        text: Dashboard
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [cosmo, custom.scss]
     toc: true
 
 
