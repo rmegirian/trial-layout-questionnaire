@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Questionnaire for Designing Small Plot Trials"
+  title: "trial-layout-questionnaire"
   sidebar:
     contents:
       - href: index.qmd

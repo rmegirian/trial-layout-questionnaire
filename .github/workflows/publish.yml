@@ -13,6 +13,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: install lib igraph
+        run: sudo apt install libigraph-dev
+        
       - name: Check out repository
         uses: actions/checkout@v4
 
