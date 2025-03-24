@@ -4,28 +4,25 @@ subtitle: "A Strategic Tool for Optimising Small-Plot Trial Design, Boosting Sta
 author: "by Rose Megirian"
 format: 
   dashboard:
-    logo: images/AAGI_logo.png
+    logo: "images/AAGI_logo.png"
     orientation: columns
 ---
-
 ## Column {width = "35%"}
 
-placeholder text for column 1
-
+placeholder text for column 1 
 ```{r, loadLibraries}
 #| echo: false
 #| include: false
-
 library(tidyverse)
+library(shiny)
+library(DiagrammeR)
+library(htmltools)
 ```
+
 
 ```{r, printStarwars}
-
 head(starwars)
-
 ```
-
-
 
 ## Column {width = "65%"}
 
